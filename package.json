@@ -1,0 +1,15 @@
+{
+  "name": "17-12-2024",
+  "version": "1.0.0",
+  "description": "for nodejs project",
+  "main": "task.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon task.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
